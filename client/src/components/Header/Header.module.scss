@@ -1,0 +1,15 @@
+.header {
+  height: 60px;
+  margin-top: 30px;
+  padding: 10px 0;
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .right_wrapper {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+  }
+}

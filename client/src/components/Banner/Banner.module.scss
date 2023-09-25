@@ -1,0 +1,11 @@
+.banner {
+  text-align: center;
+  border-top: 1px solid #c8c8c8;
+  border-bottom: 1px solid #c8c8c8;
+  .wrapper {
+    font-size: 230px;
+    line-height: 295px;
+    font-weight: 700;
+    color: var(--textColor);
+  }
+}
